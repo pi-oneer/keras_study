@@ -2,6 +2,10 @@
     "python.condaPath": "D:/Anaconda3/envs/kera/python.exe",
     "python.venvPath": "D:\\Anaconda\\envs",
     "python.pythonPath": "D:\\Anaconda3\\envs\\kera\\python.exe",
-    "terminal.integrated.shellArgs.windows": ["/K", "conda activate kera"]
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "conda activate kera"
+    ],
+    "terminal.integrated.fontSize": 16
 
 }
